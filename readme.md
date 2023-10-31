@@ -90,7 +90,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
 - [Audio-motion interface](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 - [Topos](https://topos.raphaelforment.fr) - A Web based live coding environment inspired by the Monome Teletype. Uses Web Audio and MIDI.
-
+- [WebKeyFinder](https://keyfinder.live) - Allows for progressive live audio key detection using webAudio and webAssembly which brings [libkeyfinder](https://github.com/mixxxdj/libkeyfinder) to the browser.
 
 ## Resources
 
